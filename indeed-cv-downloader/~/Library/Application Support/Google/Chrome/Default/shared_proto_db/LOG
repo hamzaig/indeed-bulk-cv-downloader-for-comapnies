@@ -1,0 +1,18 @@
+2025/02/22-21:29:20.045 b603 Reusing MANIFEST /Users/hamzakhalid/Desktop/Drive/Professional/MoonSys/Projects/ATS/indeed/indeed-cv-downloader/~/Library/Application Support/Google/Chrome/Default/shared_proto_db/MANIFEST-000001
+2025/02/22-21:29:20.045 b603 Recovering log #12
+2025/02/22-21:29:20.046 b603 Reusing old log /Users/hamzakhalid/Desktop/Drive/Professional/MoonSys/Projects/ATS/indeed/indeed-cv-downloader/~/Library/Application Support/Google/Chrome/Default/shared_proto_db/000012.log 
+2025/02/23-05:28:16.045 b303 Level-0 table #16: started
+2025/02/23-05:28:16.050 b303 Level-0 table #16: 155156 bytes OK
+2025/02/23-05:28:16.054 b303 Delete type=0 #12
+2025/02/23-05:40:20.226 b303 Level-0 table #18: started
+2025/02/23-05:40:20.233 b303 Level-0 table #18: 134059 bytes OK
+2025/02/23-05:40:20.239 b303 Delete type=0 #15
+2025/02/23-05:40:20.243 b303 Compacting 4@0 + 1@1 files
+2025/02/23-05:40:20.256 b303 Generated table #19@0: 1065 keys, 154747 bytes
+2025/02/23-05:40:20.256 b303 Compacted 4@0 + 1@1 files => 154747 bytes
+2025/02/23-05:40:20.258 b303 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/23-05:40:20.258 b303 Delete type=2 #16
+2025/02/23-05:40:20.258 b303 Delete type=2 #13
+2025/02/23-05:40:20.258 b303 Delete type=2 #11
+2025/02/23-05:40:20.258 b303 Delete type=2 #8
+2025/02/23-05:40:20.258 b303 Delete type=2 #18
